@@ -1,4 +1,4 @@
-#Network Security Scan
+Network Security Scan
 
 - Nmap on every new connection: It scans new devices joining the network.
 - Nessus every hour: A separate thread runs Nessus scans hourly.
